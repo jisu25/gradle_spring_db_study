@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm:TermDictionary xmlns:tm="http://exerd.com/term-model" version="1.1">
+  <term name="아이디" physicalName="member_id">
+    <synonyms>회원아이디</synonyms>
+    <synonyms>작성자아이디</synonyms>
+    <synonyms>주문자아이디</synonyms>
+  </term>
+  <term name="암호" physicalName="pwd"/>
+  <term name="이름" physicalName="name">
+    <synonyms>명</synonyms>
+  </term>
+  <term name="전화번호" physicalName="phone"/>
+  <term name="우편번호" physicalName="zip_num"/>
+  <term name="시도" physicalName="sido"/>
+  <term name="구군" physicalName="gugun"/>
+  <term name="동" physicalName="dong"/>
+  <term name="우편코드" physicalName="zip_code"/>
+  <term name="번지" physicalName="bunji"/>
+  <term name="주소" physicalName="adress"/>
+  <term name="이메일" physicalName="email"/>
+  <term name="회원" physicalName="member"/>
+  <term name="여부" physicalName="yn">
+    <synonyms>유무</synonyms>
+  </term>
+  <term name="가입" physicalName="join"/>
+  <term name="일" physicalName="date"/>
+  <term name="상품" physicalName="product"/>
+  <term name="종류" physicalName="kind"/>
+  <term name="원가" physicalName="price">
+    <synonyms>가</synonyms>
+    <synonyms>액</synonyms>
+  </term>
+  <term name="판매가" physicalName="sale"/>
+  <term name="마진" physicalName="margin">
+    <synonyms>수익</synonyms>
+  </term>
+  <term name="내용" physicalName="content"/>
+  <term name="이미지" physicalName="image"/>
+  <term name="테스트" physicalName="test"/>
+  <term name="등록" physicalName="reg">
+    <synonyms>작성</synonyms>
+  </term>
+  <term name="장바구니" physicalName="cart"/>
+  <term name="수량" physicalName="quantity"/>
+  <term name="처리완료" physicalName="res"/>
+  <term name="주문" physicalName="order"/>
+  <term name="상세" physicalName="detail"/>
+  <term name="QNA" physicalName="qna"/>
+  <term name="제목" physicalName="subject"/>
+  <term name="문의" physicalName="query"/>
+  <term name="답변" physicalName="reply"/>
+  <term name="번호" physicalName="no"/>
+  <term name="삭제" physicalName="del">
+    <synonyms>탈퇴</synonyms>
+  </term>
+  <term name="베스트" physicalName="best"/>
+  <term name="관리자" description="" physicalName="worker" physicalDescription="" tag="//@tag.0"/>
+  <term name="관리자아이디" physicalName="worker_id"/>
+  <tag name="다이어그램_용어수집" description="이 용어는 다이어그램에서 용어 수집도구를 사용하여 등록한 것입니다."/>
+</tm:TermDictionary>
